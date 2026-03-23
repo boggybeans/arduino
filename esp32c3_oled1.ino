@@ -1,11 +1,3 @@
-/*
-  DN1010 Experimental Interaction, Ashley Hi 2026
-  Week 11 - Physical Computing
-  ESP32-C3 OLED Example
-  Displays text on the 0.42" built-in OLED screen.
-  No additional components.
-*/
-
 // ====== Reference Libraries ======
 #include <Arduino.h>
 #include <U8g2lib.h>
